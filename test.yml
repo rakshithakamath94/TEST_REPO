@@ -20,6 +20,22 @@
         cancel-builds-on-update: true
         allow-whitelist-orgs-as-admins: true
         admin-list:
+          - csabahenk
+          - itisravi
+          - pranithk
+          - amarts
+          - raghavendra-talur
+          - xhernandez
+          - thotz
+          - rafikc30
+          - anoopcs9
+          - soumyakoduri
+          - Sheetalpamecha
+          - BarakSason
+          - sunnyku
+          - sanjurakonde
+          - tshacked
+          - VHariharmath-rh
         # This list is extracted from the Github's gluster.org team "gluster-maintainers".
         # There's no automation of syncing the list with github's team. We need to manually add the person.
           - deepshikhaaa
