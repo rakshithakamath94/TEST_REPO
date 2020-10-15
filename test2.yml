@@ -20,6 +20,28 @@
         cancel-builds-on-update: true
         allow-whitelist-orgs-as-admins: true
         admin-list:
+          - csabahenk
+          - itisravi
+          - aravindavk
+          - kalebskeithley
+          - nixpanic
+          - pranithk
+          - raghavendrabhat
+          - amarts
+          - raghavendra-talur
+          - xhernandez
+          - thotz
+          - rafikc30
+          - anoopcs9
+          - soumyakoduri
+          - kotreshhr
+          - Sheetalpamecha
+          - mohit84
+          - BarakSason
+          - sunnyku
+          - sanjurakonde
+          - tshacked
+          - VHariharmath-rh
           - deepshikhaaa
           - mscherer
           - jdarcy
